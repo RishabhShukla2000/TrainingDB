@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "bLFWazX1C4xQQQrX+RRKYYq1IkaAxyvKrvyv/1k3caI=",
+  "Source": "TrainingDB",
+  "BasePath": "_content/TrainingDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TrainingDB\\wwwroot",
+      "Source": "TrainingDB",
+      "ContentRoot": "C:\\Users\\rshukla1\\Desktop\\TrainingDB\\TrainingDB\\wwwroot\\",
+      "BasePath": "_content/TrainingDB",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rshukla1\\Desktop\\TrainingDB\\TrainingDB\\wwwroot\\Untitled.png",
+      "SourceId": "TrainingDB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rshukla1\\Desktop\\TrainingDB\\TrainingDB\\wwwroot\\",
+      "BasePath": "_content/TrainingDB",
+      "RelativePath": "Untitled.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Untitled.png"
+    }
+  ]
+}

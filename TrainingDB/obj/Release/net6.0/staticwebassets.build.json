@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PTDLjJny7S3jzwGvGqG6awNiNgzoV/XIa0xQc/eo+gM=",
+  "Source": "TrainingDB",
+  "BasePath": "_content/TrainingDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TrainingDB\\wwwroot",
+      "Source": "TrainingDB",
+      "ContentRoot": "C:\\Users\\rshukla1\\Desktop\\TrainingDB\\TrainingDB\\wwwroot\\",
+      "BasePath": "_content/TrainingDB",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
