@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bLFWazX1C4xQQQrX+RRKYYq1IkaAxyvKrvyv/1k3caI=",
+  "Hash": "XuRndNm1ZV1FeHX9gSgu3o5m3JP3k3MAYpn0VetWyXo=",
   "Source": "TrainingDB",
   "BasePath": "_content/TrainingDB",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\rshukla1\\Desktop\\TrainingDB\\TrainingDB\\wwwroot\\264318099_1151252592083425_3379176892772917912_n.jpg",
+      "SourceId": "TrainingDB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rshukla1\\Desktop\\TrainingDB\\TrainingDB\\wwwroot\\",
+      "BasePath": "_content/TrainingDB",
+      "RelativePath": "264318099_1151252592083425_3379176892772917912_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\264318099_1151252592083425_3379176892772917912_n.jpg"
+    },
     {
       "Identity": "C:\\Users\\rshukla1\\Desktop\\TrainingDB\\TrainingDB\\wwwroot\\Untitled.png",
       "SourceId": "TrainingDB",
