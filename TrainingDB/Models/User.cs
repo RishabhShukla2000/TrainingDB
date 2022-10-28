@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
 namespace TrainingDB.Models
@@ -16,10 +15,8 @@ namespace TrainingDB.Models
         public string Hobbies { get; set; } = null!;
         public string ProfilePic { get; set; } = null!;
         public string Pword { get; set; } = null!;
-
-
         public int? RoleId { get; set; }
-
+        [JsonIgnore]
         public virtual Role? Role { get; set; }
     }
 }

@@ -51,7 +51,7 @@ namespace TrainingDB.Controllers
                     model.Token = new JwtSecurityTokenHandler().WriteToken(token);
                     model.UserName = user.UserName;
                     model.UserId = user.UserId;
-                    model.RoleName = user.Role.RoleName;
+               
                     model.ProfilePic = user.ProfilePic;
                     return Ok(model);
                 }
