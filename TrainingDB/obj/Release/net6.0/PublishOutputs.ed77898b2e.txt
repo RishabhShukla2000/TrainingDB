@@ -4,6 +4,7 @@ C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Release\net6.0\PubTmp\Out\ap
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Release\net6.0\PubTmp\Out\TrainingDB.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Release\net6.0\PubTmp\Out\TrainingDB.runtimeconfig.json
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Release\net6.0\PubTmp\Out\TrainingDB.pdb
+C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Release\net6.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll

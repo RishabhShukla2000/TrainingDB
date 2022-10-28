@@ -16,8 +16,8 @@ namespace TrainingDB.Custom_Model
             public string Hobbies { get; set; } = null!;
             public IFormFile Profile_Pic { get; set; } = null!;
             public string Pword { get; set; } = null!;
-      
-       
+            public int RoleId { get; set; }
+
     }
     public class CustomUser1
     {

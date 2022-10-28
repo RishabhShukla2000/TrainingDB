@@ -16,9 +16,10 @@ namespace TrainingDB.Models
         public string Hobbies { get; set; } = null!;
         public string ProfilePic { get; set; } = null!;
         public string Pword { get; set; } = null!;
-        [JsonIgnore]
+
+
         public int? RoleId { get; set; }
-        [JsonIgnore]
+
         public virtual Role? Role { get; set; }
     }
 }

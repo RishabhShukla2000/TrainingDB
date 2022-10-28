@@ -7,6 +7,7 @@ C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Release\net6.0\TrainingDB.ru
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Release\net6.0\TrainingDB.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Release\net6.0\TrainingDB.pdb
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Release\net6.0\Humanizer.dll
+C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll

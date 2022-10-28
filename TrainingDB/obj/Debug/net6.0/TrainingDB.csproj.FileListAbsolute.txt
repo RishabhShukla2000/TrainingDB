@@ -1,11 +1,13 @@
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\appsettings.json
+C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\TrainingDB.staticwebassets.runtime.json
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\TrainingDB.exe
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\TrainingDB.deps.json
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\TrainingDB.runtimeconfig.json
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\TrainingDB.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\TrainingDB.pdb
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -60,5 +62,3 @@ C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Debug\net6.0\refint\Training
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Debug\net6.0\TrainingDB.pdb
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Debug\net6.0\TrainingDB.genruntimeconfig.cache
 C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\obj\Debug\net6.0\ref\TrainingDB.dll
-C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\TrainingDB.staticwebassets.runtime.json
-C:\Users\rshukla1\Desktop\TrainingDB\TrainingDB\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

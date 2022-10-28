@@ -60,8 +60,9 @@ namespace TrainingDB.Controllers
             user1.Gender = user.Gender;
             user1.DateOfBirth = user.DateOfBirth;
             user1.Hobbies = user.Hobbies;
-            user1.ProfilePic = user.Profile_Pic.Name;
+            user1.ProfilePic = user.Profile_Pic.FileName;
             user1.Pword = user.Pword;
+            user1.RoleId = user.RoleId;
 
             _context.Users.Add(user1);
             await _context.SaveChangesAsync();

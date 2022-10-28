@@ -34,8 +34,7 @@ namespace TrainingDB.Controllers
                         new Claim(JwtRegisteredClaimNames.Sub, _configuration["Jwt:Subject"]),
                         new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                         new Claim(JwtRegisteredClaimNames.Iat, DateTime.UtcNow.ToString()),
-                        new Claim("UserId", user.UserId.ToString()),
-                        new Claim("UserName", user.UserName)
+                       
 
                     };
 
@@ -48,9 +47,15 @@ namespace TrainingDB.Controllers
                         expires: DateTime.UtcNow.AddMinutes(10),
                         signingCredentials: signIn);
 
-                    return Ok(new JwtSecurityTokenHandler().WriteToken(token));
+                    JWTToken model = new JWTToken();
+                    model.Token = new JwtSecurityTokenHandler().WriteToken(token);
+                    model.UserName = user.UserName;
+                    model.UserId = user.UserId;
+                    model.RoleName = user.Role.RoleName;
+                    model.ProfilePic = user.ProfilePic;
+                    return Ok(model);
                 }
-                
+
                 else
                 {
                     return BadRequest("Invalid credentials");
@@ -62,7 +67,10 @@ namespace TrainingDB.Controllers
             }
         }
 
-
+        private object TokenHandler()
+        {
+            throw new NotImplementedException();
+        }
 
         private async Task<User> GetUser(string login, string password)
         {
